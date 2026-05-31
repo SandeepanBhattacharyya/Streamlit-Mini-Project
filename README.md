@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ### 3. Run the application
 
 ```bash
-streamlit run <file>.py
+streamlit run mortgage_calculator.py
 ```
 
 The application will open automatically in your browser.
@@ -61,7 +61,7 @@ The application also generates a payment schedule showing how the remaining bala
 ## Project Structure
 
 ```text
-├── app.py
+├── mortgage_calculator.py
 ├── requirements.txt
 └── README.md
 ```
